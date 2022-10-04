@@ -22,7 +22,7 @@ Password manager is an app where you can store all your credentials in a secure 
 ### Project Structure :hammer:
 
     com.pestillo     # Root Package
-    .
+    
     ├── data            # Contains all the adapters for recycleviews
     |   └── database    # Contains files which define an entity or table's schema in room database
         └── model       # Contains files which define an entity or table's schema in room database
