@@ -2,7 +2,7 @@ package es.carmenapps.pestillo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import es.carmenapps.pestillo.ui.main.MainFragment
+import es.carmenapps.pestillo.ui.MainFragment
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package es.carmenapps.pestillo.ui.main
+package es.carmenapps.pestillo.ui
 
 import androidx.lifecycle.ViewModel
 
